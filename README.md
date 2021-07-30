@@ -1,2 +1,4 @@
 # hello-world
-This is a trial for my new repository creation.
+This is a trial.
+
+This is my first commit in repository of my github. 
